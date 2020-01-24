@@ -5,3 +5,5 @@ Machine learning is the scientific study of algorithms and statistical models th
 ## I have worked on the following datasets
 * Boston Housing Dataset
 * Iris Dataset
+* Automobile
+* Capstone
